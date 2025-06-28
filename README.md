@@ -1,4 +1,4 @@
-### Quiz App - Next.js
+# Quiz App - Next.js
 
 An interactive Quiz application built with Next.js that allows users to take quizzes from various categories with a clean and fast interface.
 
@@ -36,11 +36,11 @@ Quiz App is a web application that provides a user-friendly interface to select 
 
 ## Getting Started
 
-# Prerequisites
+### Prerequisites
 
 - `Node.js` installed on your system.
 
-# Installation and Running Locally
+### Installation and Running Locally
 
 1- Clone the repository
 
